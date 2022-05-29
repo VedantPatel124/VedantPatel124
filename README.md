@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant Patel (@VedantPatel124)
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Master of Engineering in Software Engineering in Carleton University
+- 🌱 I’m currently pursuing Master of Engineering in Software Engineering in Carleton University
 
 - 📫 You can reach me through email: vedantjpatel124@gmail.com
 
