@@ -23,7 +23,7 @@ Hello there! I'm Vedant Patel, a passinate Software Test Engineer (QA Engineer).
 
 ## Connect with Me
 
-- [LinkedIn][(Your LinkedIn Profile URL)](https://www.linkedin.com/in/vedant-patel-5595a312a/)
+- [(LinkedIn)](https://www.linkedin.com/in/vedant-patel-5595a312a/)
 
 ## Stats
 
