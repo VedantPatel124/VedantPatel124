@@ -12,9 +12,9 @@ Hello there! I'm Vedant Patel, a passinate Software Test Engineer (QA Engineer).
 
 ## Skills
 
-- Programming Languages: [List of Programming Languages]
-- Frameworks & Technologies: [List of Frameworks & Technologies]
-- Tools & Software: [List of Tools & Software]
+- Programming Languages: Python, Java, HTML/CSS, JavaScript, SQL, C++, C
+<!--- Frameworks & Technologies: [List of Frameworks & Technologies]
+- Tools & Software: [List of Tools & Software] --->
 
 ## Get in Touch
 
