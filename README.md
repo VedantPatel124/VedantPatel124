@@ -27,6 +27,6 @@ Hello there! I'm Vedant Patel, a passinate Software Test Engineer (QA Engineer).
 
 ## Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantPatel124)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities.
