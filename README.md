@@ -5,9 +5,10 @@ Hello there! I'm Vedant Patel, a passinate Software Test Engineer (QA Engineer).
 ## About Me
 
 - 🌟 I'm passionate about Software Testing, QA and Android App Development.
-<!--- 💼 Currently working on [Your Current Project/Job].--->
 - 🎓 Graduated from Carleton University with a Master of Engineering degree in Software Engineering.
 - 📚 Always eager to learn and explore new technologies.
+
+<!--- 💼 Currently working on [Your Current Project/Job].--->
 
 ## Skills
 
