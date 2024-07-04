@@ -1,10 +1,10 @@
 # Welcome to Vedant Patel's GitHub Profile! 👋
 
-Hello there! I'm Vedant Patel, a passinate Software Test Engineer (QA Engineer). Welcome to my GitHub profile.
+Hello there! I'm Vedant Patel, a passinate Software Developer/ Software Test Engineer (QA Engineer). Welcome to my GitHub profile.
 
 ## About Me
 
-- 🌟 I'm passionate about Software Testing, QA and Android App Development.
+- 🌟 I'm passionate about Software Development, Testing, QA and Android App Development.
 - 🎓 Graduated from Carleton University with a Master of Engineering degree in Software Engineering.
 - 📚 Always eager to learn and explore new technologies.
 
